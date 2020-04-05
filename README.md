@@ -1,4 +1,4 @@
-# Wordpress İl ve İlçe Otomatik Yükleme
+# Wordpress Türkiye İl ve İlçeleri Otomatik Yükleme
 Wordpress siteleri için taxanomy adı girilerek otomatik Türkiye İl ve içelerini aktaran eklenti. 
 
 Bir Custom Post Type a bağlı taxanomy girilirse içerisine illeri ve alt bağlantıları olarak ilçeleri eklemektedir.
